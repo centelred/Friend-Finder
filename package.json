@@ -1,0 +1,26 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "friend finder",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/centelred/Friend-Finder.git"
+  },
+  "keywords": [
+    "friend",
+    "finder"
+  ],
+  "author": "c.coddington",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/centelred/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/centelred/Friend-Finder#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}
