@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/centelred/Friend-Finder#readme",
   "dependencies": {
-    "inquirer": "^3.0.6"
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "inquirer": "^3.0.6",
+    "package": "^1.0.1",
+    "path": "^0.12.7"
   }
 }
